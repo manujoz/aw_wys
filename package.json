@@ -1,0 +1,25 @@
+{
+  "version": "2.0.3",
+  "author": {
+    "name": "Arisman Webs"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "aw_button": "^2.0.0",
+    "aw_extern_functions": "^2.0.0",
+    "aw_form_mixins": "^2.0.0",
+    "aw_polymer_3": "^1.1.5"
+  },
+  "deprecated": false,
+  "description": "Componente wysiwyg para Polymer 3",
+  "keywords": [
+    "Arisman Webs"
+  ],
+  "license": "ISC",
+  "name": "aw_wys",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manujoz/aw_wys.git"
+  },
+  "types": "./index.d.ts"
+}
